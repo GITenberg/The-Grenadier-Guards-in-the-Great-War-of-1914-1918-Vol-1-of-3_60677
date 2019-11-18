@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '51067'
     url: http://www.gutenberg.org/2009/agents/51067
     wikipedia: https://en.wikipedia.org/wiki/Emery_Walker
+covers:
+- cover_type: archival
+  image_path: 60677-h/images/cover.jpg
 creator:
   author:
     agent_name: Ponsonby, Frederick
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51082
     wikipedia: https://en.wikipedia.org/wiki/Frederick_Ponsonby,_1st_Baron_Sysonby
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60677#The-Grenadier-Guards-in-the-Great-War-of-1914-1918-Vol-1-of-3
 gutenberg_issued: '2019-11-13'
 gutenberg_type: Text
 identifiers:
